@@ -1,4 +1,17 @@
 # DialogMachine
+## Install
+```shell script
+pip install git+git://github.com/danger3466/DialogMachine.git
+```
+or add in requirements.txt:
+```
+wheel
+git+git://github.com/danger3466/DialogMachine.git
+```
+and run:
+```shell script
+pip install -r requirements.txt
+```
 ## Usage
 ```python
 from dialog_machine.main import DialogMachine
