@@ -3,10 +3,8 @@ class DialogMachine():
     
     def __init__(self):
         self.__next_hop = 0
-
-    next_hop = property()
     
-    @next_hop.getter
+    @property
     def next_hop(self):
         return self.__next_hop
 
