@@ -1,4 +1,7 @@
 # DialogMachine
+## Docs
+Документация на Русском языке:
+https://dialogmachine.readthedocs.io/
 ## Install
 ```shell script
 pip install git+git://github.com/danger3466/DialogMachine.git
